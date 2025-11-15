@@ -1,0 +1,21 @@
+body{
+    background-image: url(fountain-pen-on-yellow-background-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1370px 700px;
+}
+form{
+    border: solid 1px;
+    width: 300px;
+}
+label{
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+}
+input{
+    border-radius: 150px;
+}
+button{
+    background-color: blue;
+    color: azure;
+}
